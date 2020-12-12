@@ -1,0 +1,10 @@
+{
+  "author" : {"name":"smartjia","id":123},
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "jia" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Hello", "postId": 135 }
+  ],
+  "profile": { "name": "smartjia" }   
+}
