@@ -1,10 +1,14 @@
 {
   "author" : {"name":"smartjia","id":123},
   "posts": [
-    { "id": 1, "title": "json-server", "author": "jia" }
+    { "id": 1, "title": "json-server1", "author": "jia" },
+    { "id": 2, "title": "json-server2", "author": "jia" },
+    { "id": 3, "title": "json-server3", "author": "jia" }
   ],
   "comments": [
-    { "id": 1, "body": "Hello", "postId": 135 }
+    { "id": 1, "body": "comment1", "postId": 135 },
+    { "id": 2, "body": "comment2", "postId": 136 },
+    { "id": 3, "body": "comment3", "postId": 137 }
   ],
   "profile": { "name": "smartjia" }   
 }
